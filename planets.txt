@@ -1,11 +1,4 @@
 HI
 Im tired
-<<<<<<< HEAD
 Im really tired
-<<<<<<< HEAD
 I want to slep plz
-=======
->>>>>>> parent of 696533f... tired
-=======
-
->>>>>>> parent of c0a2d71... really tired
